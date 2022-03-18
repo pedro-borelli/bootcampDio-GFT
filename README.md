@@ -1,2 +1,2 @@
 # desafio1Dio
-Desafio de projeto do curso GFT Start Java (criando meu primeiro repositório)
+Desafios de projeto e exercícios do curso GFT Start Java.
